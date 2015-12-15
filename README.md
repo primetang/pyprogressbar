@@ -23,7 +23,7 @@ pip install pyprogressbar
 
 ###3. Usage
 
-Use it just link the following code:
+Use it just like the following code:
 ```python
 from pyprogressbar import Bar
 import time
