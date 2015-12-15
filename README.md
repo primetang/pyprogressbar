@@ -29,7 +29,7 @@ from pyprogressbar import Bar
 import time
 count = 8
 pbar = Bar(count)
-for i in range(count):
+for i in xrange(count):
     time.sleep(1) # or some actual working code
     pbar.passed()
 ```
