@@ -13,12 +13,12 @@ This package uses distutils, which is the default way of installing python modul
 ```
 git clone https://github.com/primetang/pyprogressbar.git
 cd pyprogressbar
-python setup.py install
+[sudo] python setup.py install
 ```
 
 Or directly through `pip` to install it:
 ```
-pip install pyprogressbar
+[sudo] pip install pyprogressbar
 ```
 
 ###3. Usage
