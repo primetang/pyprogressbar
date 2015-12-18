@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="pyprogressbar",
-    version="0.0.1",
+    version="0.0.2",
     author="Gefu Tang",
     author_email="tanggefu@gmail.com",
     description=("pyprogressbar is a progress bar control for python."),
