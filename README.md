@@ -5,8 +5,6 @@ pyprogressbar
 
 pyprogressbar is a progress bar control for python.
 
-#####Please feel free to contact me [tanggefu@gmail.com] if you have any questions.
-
 ###2. Install
 
 This package uses distutils, which is the default way of installing python modules. To install in your home directory, securely run the following:
